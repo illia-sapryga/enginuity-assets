@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Kurochkin;Igor;;;
+FN:Igor Kurochkin
+ORG:Enginuity Software & Consulting
+TITLE:Senior SEO Specialist
+TEL;TYPE=CELL,VOICE:+15308202186
+EMAIL;TYPE=INTERNET,WORK:igor@enginuityus.com
+URL:https://enginuityus.com
+PHOTO;VALUE=URI:https://cdn.jsdelivr.net/gh/illia-sapryga/enginuity-assets@main/signatures/portraits/igor-kurochkin.png
+END:VCARD
